@@ -8,7 +8,7 @@ bot = Bot(token='1/MTc2MTk=/sx/PsIAsJcTZq1ZW9eTX4Q==')
 
 # ChatGPT
 #openai.api_key = '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'
-openai.api_key = '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'
+openai.api_key = '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'
 
 # /gpt 发送聊天内容 /gpt own 则是专属于单个用户的聊天
 @bot.command()
